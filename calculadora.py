@@ -18,7 +18,10 @@ def main():
         print(total)
 
     def multiplicacion(a,b):
-        total= a-b
+        total= a*b
+        print(total)
+    def division(a,b):
+        total= a/b
         print(total)
     
 if __name__ == "__main__":
