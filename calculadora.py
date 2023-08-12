@@ -13,7 +13,9 @@ def main():
         total= a+b
         print(total)
     
-    suma(5,2)
-
+    def resta (a,b):
+        total= a-b
+        print(total)
+    
 if __name__ == "__main__":
     main()
