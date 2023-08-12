@@ -9,11 +9,15 @@ def main():
            multiplicacion * 
            division / 
            salir 0""")
-    def suma (a,b):
+    def suma(a,b):
         total= a+b
         print(total)
     
-    def resta (a,b):
+    def resta(a,b):
+        total= a-b
+        print(total)
+
+    def multiplicacion(a,b):
         total= a-b
         print(total)
     
