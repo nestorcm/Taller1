@@ -13,19 +13,19 @@ def main():
     
     def suma(a,b):
         total= a+b
-        print(total)
+        print( "resultado: "+total)
     
     def resta(a,b):
         total= a-b
-        print(total)
+        print( "resultado: " + total)
 
     def multiplicacion(a,b):
         total= a*b
-        print(total)
+        print( "resultado: " + total)
 
     def division(a,b):
         total= a/b
-        print(total)
+        print( "resultado: " + total)
     
     while op !="0":
         a=int( input("Ingrese numero 1 :"))
